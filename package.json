@@ -1,0 +1,26 @@
+{
+  "name": "toolkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeanBarbosa/toolkit.git"
+  },
+  "keywords": [
+    "toolkit"
+  ],
+  "author": "Jean Barbosa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JeanBarbosa/toolkit/issues"
+  },
+  "homepage": "https://github.com/JeanBarbosa/toolkit#readme",
+  "dependencies": {
+    "electron": "^7.1.7"
+  }
+}
