@@ -20,8 +20,6 @@ This library covers all your needs for integrating with Pagar.me, providing:
 
 * A clean Promise-based interface for all endpoints in Pagarme's API
 * A fast way to generate card hashes
-* Postback signature validation
-* Documents validations (CPF, CNPJ, and others)
 
 ## How to use
 
