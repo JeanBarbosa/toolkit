@@ -2,14 +2,13 @@
 
 # Toolkit Electron
 
-A JavaScript library to interface with Pagar.me's API, it works in the browser
-and with Node.js.
+ Utility from tray menu.
 
-The documentation can be found in our [JSDocs](https://pagarme.github.io/pagarme-js)
+The documentation can be found in our [JSDocs](https://github.com/JeanBarbosa/toolkit/)
 
 <br>
 
-<a href="https://travis-ci.org/pagarme/pagarme-js" >
+<a href="https://github.com/JeanBarbosa/toolkit/" >
   <img src="https://travis-ci.org/pagarme/pagarme-js.svg?branch=master" align="left" />
 </a>
 
