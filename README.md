@@ -9,33 +9,30 @@ The documentation can be found in our [JSDocs](https://github.com/JeanBarbosa/to
 <br>
 
 <a href="https://github.com/JeanBarbosa/toolkit/" >
-  <img src="https://travis-ci.org/pagarme/pagarme-js.svg?branch=master" align="left" />
+  <img src="https://travis-ci.org/toolkit/pagarme-js.svg?branch=master" align="left" />
 </a>
 
 <br>
 
 ## Description
 
-This library covers all your needs for integrating with Pagar.me, providing:
 
-* A clean Promise-based interface for all endpoints in Pagarme's API
-* A fast way to generate card hashes
 
 ## How to use
 
 First, install it:
 
 ```bash
-yarn add pagarme
+yarn add toolkit
 ```
 
 Or using npm:
 
 ```bash
-npm install pagarme
+npm install toolkit
 ```
 
-Pagar.me's JavaScript library can be used in three ways:
+toolkit.me's JavaScript library can be used in three ways:
 
 ## Building
 
