@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/JeanBarbosa/toolkit#readme",
   "dependencies": {
-    "electron": "^7.1.7"
+    "electron": "^15.5.5"
   }
 }
